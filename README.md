@@ -13,7 +13,7 @@ Portfólio desenvolvido para reunir e apresentar meus projetos de desenvolviment
 ## 📂 Projetos em Destaque
 * **VivaBrasil Turismo:** Site responsivo de viagens com catálogo de destinos e roteiros dinâmicos.
 * **GamerParts:** E-commerce de hardware gamer com filtro por categorias e carrinho interativo integrado ao WhatsApp.
-* * **MarcusFlix:** Plataforma de catálogo de filmes e séries com banner em destaque, carrosséis dinâmicos e trailers integrados.
+* **MarcusFlix:** Plataforma de catálogo de filmes e séries com banner em destaque, carrosséis dinâmicos e trailers integrados.
 
 
 ## 📫 Contato
