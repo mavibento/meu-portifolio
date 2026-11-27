@@ -2,7 +2,7 @@
 
 Portfólio desenvolvido para reunir e apresentar meus projetos de desenvolvimento web, desktop e sistemas acadêmicos.
 
-🔗 **Acesse o portfólio online:** https://meu-portfolio-marcus-freitas.netlify.app
+🔗 **Acesse o portfólio online:** https://meu-portifolio-marcus-freitas.netlify.app
 
 ## 🚀 Tecnologias Utilizadas
 * **HTML5:** Estruturação semântica das seções.
