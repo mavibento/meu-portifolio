@@ -2,10 +2,6 @@
 
 Portfólio desenvolvido para reunir e apresentar meus projetos de desenvolvimento web, sistemas Full Stack, aplicações desktop e projetos acadêmicos.
 
-🔗 **Acesse o portfólio online:**# 💻 Portfólio Pessoal - Marcus Freitas
-
-Portfólio desenvolvido para reunir e apresentar meus projetos de desenvolvimento web, sistemas Full Stack, aplicações desktop e projetos acadêmicos.
-
 🔗 **Acesse o portfólio online:** 
 https://mavibento.github.io/meu-portifolio/
 
