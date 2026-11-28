@@ -19,6 +19,7 @@ https://mavibento.github.io/meu-portifolio/
 * **GamerParts:** E-commerce de hardware gamer com filtro por categorias e carrinho interativo integrado ao WhatsApp.
 * **MarcusFlix:** Plataforma de catálogo de filmes e séries com banner em destaque, carrosséis dinâmicos e trailers integrados.
 * **Carteira de Investimentos em Rust:** Aplicação Full Stack SSR com Axum, Askama, estado concorrente thread-safe e cálculo automático de preço médio de ativos.
+* **Viagem dos Sonhos (Full Stack):** Plataforma de turismo internacional com Dark Mode, simulador dinâmico de pacotes e persistência de orçamentos e contatos no MySQL.
 
 ## 📫 Contato
 
